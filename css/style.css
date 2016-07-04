@@ -727,3 +727,6 @@ ul.info i:hover {
   font-size: 0.875rem;
   color: #999999;
 }
+.full_content_page {
+  padding: 20px 0px;
+}
