@@ -6,7 +6,7 @@
       path: index.html
     - name: Home alternative
       path: index-alternative.html
-- name: About
+- name: About Us
   path: about-us.html
   section_id: about-us
 - name: Services
