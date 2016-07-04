@@ -260,7 +260,7 @@ h1, h2, h3, h4 {
 }
 .milestone strong {
   font-size: 72px;
-  font-family: "PT sans";
+  font-family: "Raleway";
   display: block;
 }
 
@@ -406,7 +406,7 @@ textarea {
 }
 #comments-form label {
   font-size: 1rem;
-  font-family: "PT sans";
+  font-family: "Raleway";
   margin-bottom: 5px;
 }
 
