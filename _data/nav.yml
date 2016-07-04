@@ -4,9 +4,9 @@
 - name: About Us
   path: about-us.html
   section_id: about-us
-- name: Services
-  path: services.html
-  section_id: services
+- name: How we work
+  path: how-we-work.html
+  section_id: how we work
 - name: Portfolio
   path: portfolio.html
   section_id: portfolio
