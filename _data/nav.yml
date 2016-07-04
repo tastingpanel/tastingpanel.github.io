@@ -7,14 +7,12 @@
 - name: How we work
   path: how-we-work.html
   section_id: how we work
-- name: Portfolio
-  path: portfolio.html
-  section_id: portfolio
-  children:
-    - name: Portfolio
-      path: portfolio.html
-    - name: Portfolio single
-      path: portfolio-item.html
-- name: Blog
-  path: blog/
-  section_id: blog
+- name: Where we work
+  path: where-we-work.html
+  section_id: where we work
+- name: Our Toolbox
+  path: our-toolbox.html
+  section_id: our toolbox
+- name: Contact Us
+  path: contact-us.html
+  section_id: contact us
