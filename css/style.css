@@ -158,6 +158,12 @@ h1, h2, h3, h4 {
   margin-bottom: 15px;
   display: block;
 }
+.special-title-left i {
+  font-size: 50px;
+  color: #fcbf31;
+  margin-bottom: 15px;
+  display: block;
+}
 .special-title h2 {
   text-transform: uppercase;
   margin-bottom: 0;
@@ -169,10 +175,22 @@ h1, h2, h3, h4 {
   color: #666666;
   letter-spacing: 1px;
 }
+.special-title-left p {
+  font-family: "droid serif", georgia;
+  font-size: 1.125rem;
+  font-style: italic;
+  color: #666666;
+  letter-spacing: 1px;
+}
 .special-title p.shortline {
   width: 100px;
   height: 5px;
   margin: 0 auto;
+  border-bottom: 1px solid #fcbf31;
+}
+.special-title-left p.shortline {
+  width: 100px;
+  height: 5px;
   border-bottom: 1px solid #fcbf31;
 }
 
