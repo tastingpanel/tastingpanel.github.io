@@ -32,6 +32,9 @@ h1, h2, h3, h4 {
 .yellow {
   background: #fcbf31;
 }
+.panel-blue {
+  background-color: #01baf2;
+}
 
 .dark-blue {
   background: #3d5766;
