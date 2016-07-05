@@ -1,28 +1,28 @@
 - image: slider/burger.jpg
   desc_location: left
   desc:
-    <h2>This is squarebox</h2>
-    <p>A creative responsive theme.</p>
+    <h2>Understand your Customers</h2>
+    <p>Find out what they love about your products</p>
     <div class='two spacing'></div>
     <a class='button boxed'>View Features</a>
 - image: slider/orange_juice.jpg
   desc_location: right
   desc:
-    <h2>Creative Design</h2>
-    <p>Focus on every detail element.</p>
+    <h2>Real Life Research</h2>
+    <p>Let your customers experience your products in a comfortable setting.</p>
     <div class='two spacing'></div>
     <a class='button boxed'>Learn More</a>
 - image: slider/cupcakes.jpg
   desc_location: left
   desc:
-    <h2>Responsive Design</h2>
-    <p>Let users access the theme with all devices</p>
+    <h2>Perfect your product</h2>
+    <p>Let your customers focus on the small details</p>
     <div class='two spacing'></div>
     <a class='button boxed'>Learn More</a>
 - image: slider/taste.jpg
   desc_location: right
   desc:
-    <h2>Very Easy to Use</h2>
-    <p>Almost every element could be customized</p>
+    <h2>See What Your Customer is thinking</h2>
+    <p>Delve into the minds of your most important assets</p>
     <div class='two spacing'></div>
     <a class='button boxed'>Learn More</a>
