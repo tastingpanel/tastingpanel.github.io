@@ -1,9 +1,6 @@
 - name: Home
   path: index.html
   section_id: home
-- name: About Us
-  path: about-us.html
-  section_id: about-us
 - name: How we work
   path: how-we-work.html
   section_id: how we work
