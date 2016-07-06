@@ -5610,6 +5610,8 @@ p {
   line-height: 1.6;
   margin-bottom: 1.25rem;
   text-rendering: optimizeLegibility;
+}
+.row p {
   text-align: justify;
   text-justify: inter-word;
 }

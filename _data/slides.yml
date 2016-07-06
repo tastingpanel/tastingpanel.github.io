@@ -9,7 +9,7 @@
   desc_location: right
   desc:
     <h2>Real Life Research</h2>
-    <p style="text-align: right;">Product testing in natural enviroments</p>
+    <p>Product testing in natural enviroments</p>
     <div class='two spacing'></div>
     <a href="where-we-work.html" class='button boxed'>Where we work</a>
 - image: slider/cupcakes.jpg
@@ -23,6 +23,6 @@
   desc_location: right
   desc:
     <h2>Unpack customer opinion</h2>
-    <p style="text-align: right;">Delve into the minds of these vital stakeholders</p>
+    <p style="color: #000;">Delve into the minds of these vital stakeholders</p>
     <div class='two spacing'></div>
     <a href="contact-us.html" class='button boxed'>Contact Us</a>
