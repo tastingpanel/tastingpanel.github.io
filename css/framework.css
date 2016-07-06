@@ -5610,10 +5610,11 @@ p {
   line-height: 1.6;
   margin-bottom: 1.25rem;
   text-rendering: optimizeLegibility;
-    text-align: justify;
+}
+.main_content p {
+  text-align: justify;
   text-justify: inter-word;
 }
-
 p.lead {
   font-size: 1.21875rem;
   line-height: 1.6;
