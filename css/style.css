@@ -369,6 +369,23 @@ font-size: 125%;
   float: left;
   margin-right: 5px;
 }
+.socials_big a {
+  display: inline-block;
+}
+.socials_big i {
+  display: inline-block;
+  height: 70px;
+  width: 70px;
+  -webkit-border-radius: 18px;
+  -moz-border-radius: 18px;
+  -ms-border-radius: 18px;
+  -o-border-radius: 18px;
+  border-radius: 18px;
+  line-height: 2.25rem;
+  text-align: center;
+  float: left;
+  margin-right: 5px;
+}
 .socials i.yellow {
   color: white;
   background: #fcbf31;
