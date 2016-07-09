@@ -393,11 +393,11 @@ font-size: 125%;
 .socials i.yellow:hover {
   background-color: rgba(252, 191, 49, 0.8);
 }
-.socials i.orange {
+.socials_big i.orange {
   color: white;
   background: #fcbf31;
 }
-.socials i.orange:hover {
+.socials_big i.orange:hover {
   background-color: rgba(252, 191, 49, 0.8);
 }
 .socials i.grey {
