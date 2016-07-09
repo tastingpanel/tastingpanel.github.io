@@ -280,6 +280,9 @@ font-size: 125%;
   font-size: 1.375rem;
   font-family: "raleway", georgia;
 }
+@media screen )max-width: 360px) { .call-to-action p {
+font-size: 0.5rem;
+    }}
 
 /*milestone */
 .milestone {
