@@ -284,13 +284,6 @@ font-size: 125%;
   .call-to-action p {
    font-size: 0.95rem;
     }
-    .orbit-caption h2 {
-      font-size: 15px;
-    }
-
-    .orbit-caption p {
-      font-size: 12px;
-    }
   }
 
 /*milestone */
@@ -529,7 +522,7 @@ textarea {
 
 @media only screen and (max-width: 480px) {
   .orbit-caption h2, .orbit-caption p {
-    font-size: 18px;
+    font-size: 16px;
     position: relative;
     top: -50px;
   }
