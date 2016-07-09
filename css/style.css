@@ -280,7 +280,7 @@ font-size: 125%;
   font-size: 1.375rem;
   font-family: "raleway", georgia;
 }
-@media screen and (max-width: 480px) { 
+@media screen and (max-width: 800px) { 
   .call-to-action p {
    font-size: 0.5rem;
     }
