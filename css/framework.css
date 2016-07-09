@@ -3735,7 +3735,7 @@ kbd {
   text-align: center;
 }
 .orbit-container .orbit-bullets {
-  margin: 0 auto 30px auto;
+  margin: auto auto;
   overflow: hidden;
   position: relative;
   top: 10px;
