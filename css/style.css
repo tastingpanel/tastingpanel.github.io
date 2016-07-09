@@ -284,6 +284,9 @@ font-size: 125%;
   .call-to-action p {
    font-size: 0.95rem;
     }
+    .orbit-caption h2, .orbit-caption p {
+      font-size: 70%;
+    }
   }
 
 /*milestone */
