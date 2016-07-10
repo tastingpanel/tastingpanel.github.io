@@ -5,7 +5,7 @@
     <p class="heading_p">Find out what they love about your products</p>
     <div class='two spacing'></div>
     <a href="how-we-work.html" class='button boxed'>How we work</a>
-- image: slider/orange_juice.jpg
+- image: slider/group_eat.jpg
   desc_location: right
   desc:
     <h2>Real Life Research</h2>
@@ -19,7 +19,7 @@
     <p class="heading_p">Research the finest details about your product</p>
     <div class='two spacing'></div>
     <a href="our-toolbox.html" class='button boxed'>View our Toolbox</a>
-- image: slider/taste.jpg
+- image: slider/couple_eating.jpg
   desc_location: right
   desc:
     <h2>Unpack customer opinion</h2>
