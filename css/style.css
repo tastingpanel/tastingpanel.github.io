@@ -16,8 +16,10 @@ h1, h2, h3, h4 {
   letter-spacing: 2px;
 }
 .heading_p { 
-text-shadow: 1px 1px rgba(0,0,0,0.5);
-font-size: 125%;
+    font-size: 125%;
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 9px 10px 4px;
 }
 
 .full {
