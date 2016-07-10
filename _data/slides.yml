@@ -4,7 +4,7 @@
     <h2>Real Life Research</h2></br>
     <p class="heading_p">Product testing in natural enviroments</p>
     <div class='two spacing'></div>
-    <a href="where-we-work.html" class='button boxed'>Where we work</a>
+    <a href="where-we-work.html" class='button boxed_dark'>Where we work</a>
 - image: slider/burger.jpg
   desc_location: left
   desc:
