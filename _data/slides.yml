@@ -25,4 +25,4 @@
     <h2>Unpack customer opinion</h2></br>
     <p class="heading_p">Delve into the minds of these vital stakeholders</p>
     <div class='two spacing'></div>
-    <a href="contact-us.html" class='button boxed'>Contact Us</a>
+    <a href="contact-us.html" class='button boxed_dark'>Contact Us</a>
