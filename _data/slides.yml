@@ -8,14 +8,14 @@
 - image: slider/burger.jpg
   desc_location: left
   desc:
-    <h2>Understand your Customers</h2>/br>
+    <h2>Understand your Customers</h2></br>
     <p class="heading_p">Find out what they love about your products</p>
     <div class='two spacing'></div>
     <a href="how-we-work.html" class='button boxed'>How we work</a>
 - image: slider/cupcakes.jpg
   desc_location: left
   desc:
-    <h2>Perfect your product</h2>/br>
+    <h2>Perfect your product</h2></br>
     <p class="heading_p">Research the finest details about your product</p>
     <div class='two spacing'></div>
     <a href="our-toolbox.html" class='button boxed'>View our Toolbox</a>
