@@ -13,6 +13,21 @@
 
 <link rel='shortcut icon' href='favicon.ico' type='image/x-icon'/ >
       <script src='{{ site.url }}/js/modernizr.js'></script>
+<title>
+  {% if page.title %}
+    {{ page.title }}
+  {% else %}
+    Default Page Title
+  {% endif %}
+</title>
+      <meta content='width=device-width, initial-scale=1.0' name='viewport'>
+      {% if page.description %}
+  <meta name="description" content="{{ page.description}}" />
+{% endif %}
+<meta property="og:title" content="{{page.title}}" />
+<meta property="og:type"   content="website" /> 
+<meta property="og:url" content="{{page.url}}" />
+<meta property="og:image" content="http://thetastingpanel.co.za/images/pageimage/{{page.ogimage}}" />
 
     </head>
     <body>
