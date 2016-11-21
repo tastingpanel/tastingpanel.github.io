@@ -34,7 +34,7 @@
     <div class='two spacing'></div>
     <a href="our-toolbox.html" class='button boxed_dark'>View our Toolbox</a>
 - image: slider/creams.jpg
-  desc_location: left
+  desc_location: right
   desc:
     <h2>Perfect your product</h2></br>
     <p class="heading_p">Research the finest details about your product</p>
