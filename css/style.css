@@ -804,11 +804,21 @@ ul.info i:hover {
 .full_content_page {
   padding: 20px 0px;
 }
-.box-content-highlight { 
+
+.box-content-highlight-heading { 
     padding: 20px;
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 0px 0px;
     margin: 5px;
     background-color: #fcbf31;
+  margin-bottom: 0px;
+}
+.box-content-highlight { 
+    padding: 20px;
+    border-radius: 0px 0px 10px 10px;
+  border: 2px solid #fcbf31;
+    margin: 5px;
+    background-color: #ffffff;
   min-height: 308px;
+  margin-top: 0px;
   margin-bottom: 40px;
 }
