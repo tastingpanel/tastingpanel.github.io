@@ -806,10 +806,10 @@ ul.info i:hover {
 }
 .box-content-highlight { 
     padding: 20px;
-    border-radius: 0px 0px 30px 0px;
+    border-radius: 0px 0px 30px 30px;
     margin: 10px;
     background-color: #f9f9f9;
   min-height: 308px;
   border-left: solid 5px #fcbf31;
-  border-bottom: solid 3px #fcbf31;
+  border-bottom: solid 5px #fcbf31;
 }
