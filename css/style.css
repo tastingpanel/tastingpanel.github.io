@@ -808,10 +808,11 @@ ul.info i:hover {
     padding: 20px;
     border-radius: 0px 0px 30px 30px;
     margin: 10px;
-    background-color: #f9f9f9;
+    background-color: #fcbf31;
   min-height: 308px;
-  border-left: solid 5px #fcbf31;
-  border-bottom: solid 5px #fcbf31;
-   border-right: solid 5px #fcbf31;
-   border-top: solid 2px #fcbf31;
+  border-left: solid 5px #f9f9f9;
+  border-bottom: solid 5px #f9f9f9;
+   border-right: solid 5px #f9f9f9;
+   border-top: solid 2px #f9f9f9;
+  color: #fff;
 }
