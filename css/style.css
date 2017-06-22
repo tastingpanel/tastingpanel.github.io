@@ -810,4 +810,5 @@ ul.info i:hover {
     margin: 10px;
     background-color: #f9f9f9;
   min-height: 308px;
+  border-left: solid 5px #fcbf31;
 }
