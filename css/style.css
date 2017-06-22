@@ -807,7 +807,7 @@ ul.info i:hover {
 .box-content-highlight { 
     padding: 20px;
     border-radius: 10px 10px 10px 10px;
-    margin: 10px;
+    margin: 5px;
     background-color: #fcbf31;
   min-height: 308px;
 }
